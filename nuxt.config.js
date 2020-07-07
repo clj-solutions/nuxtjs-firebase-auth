@@ -78,7 +78,4 @@ export default {
     }
   },
   ignore: ['**/*.test.*', '**/*.spec.*'],
-  publicRuntimeConfig: {
-    baseURL: process.env.BASE_URL || 'http://localhost:8080/api',
-  },
 }
