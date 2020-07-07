@@ -1,30 +1,30 @@
 <template>
-  <div class="container">
+  <b-container>
     <div>
       <Logo />
       <h1 class="title">
         nuxtjs-firebase-auth
       </h1>
       <div class="links">
-        <a
+        <b-link
           href="https://nuxtjs.org/"
           target="_blank"
           rel="noopener noreferrer"
           class="button--green"
         >
           Documentation
-        </a>
-        <a
+        </b-link>
+        <b-link
           href="https://github.com/nuxt/nuxt.js"
           target="_blank"
           rel="noopener noreferrer"
           class="button--grey"
         >
           GitHub
-        </a>
+        </b-link>
       </div>
     </div>
-  </div>
+  </b-container>
 </template>
 
 <script lang="ts">
