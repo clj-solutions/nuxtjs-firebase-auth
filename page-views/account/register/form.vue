@@ -108,15 +108,6 @@ export default Vue.extend({
           Register
         </b-button>
       </div>
-
-      <div class="mt-4 text-center">
-        <p class="mb-0">
-          By registering you agree to the 45AIR
-          <b-link href="javascript: void(0);" class="text-primary">
-            Terms of Use
-          </b-link>
-        </p>
-      </div>
     </b-form>
   </div>
 </template>

@@ -53,7 +53,6 @@ export default Vue.extend({
             Login
           </b-link>
         </p>
-        <p>© {{ new Date().getFullYear() }} 45AIR.</p>
       </div>
     </b-col>
     <!-- end col -->
